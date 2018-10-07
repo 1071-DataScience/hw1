@@ -6,9 +6,9 @@
 ## cmd
 
 ```R
-Rscript hw1_yourID.R --input input1.csv --out output1.csv
+Rscript hw1_yourID.R --input input1.csv --output output1.csv
 
-Rscript hw1_yourID.R --out output1.csv --input input1.csv
+Rscript hw1_yourID.R --output output1.csv --input input1.csv
 ```
 
 Your R code should output and round the set name with maximum value for each column.
@@ -28,8 +28,8 @@ example =  output1.csv
 10 testing data
 
 ```R
-Rscripthw1/code/hw1_000.R -input hw1/data/test.1.csv -out hw1/eval/test1/hw1_000
-Rscripthw1/code/hw1_000.R -out hw1/eval/test2/hw1_000 -input hw1/data/test.2.csv
+Rscripthw1/code/hw1_000.R --input hw1/data/test.1.csv --output hw1/eval/test1/hw1_000
+Rscripthw1/code/hw1_000.R --output hw1/eval/test2/hw1_000 --input hw1/data/test.2.csv
 ```
 Correct answer gets 9 points of each testing data.
 
