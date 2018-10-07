@@ -1,14 +1,14 @@
 # hw1
 
-### Name: 
-### Student ID:
+### Name: <your name in Chinese or English>
+### Student ID: <your student ID>
 
 ## cmd
 
 ```R
-Rscript hw1_yourID.R -input input1.csv -out output1.csv
+Rscript hw1_yourID.R --input input1.csv --out output1.csv
 
-Rscript hw1_yourID.R -out output1.csv -input input1.csv
+Rscript hw1_yourID.R --out output1.csv --input input1.csv
 ```
 
 Your R code should output and round the set name with maximum value for each column.
