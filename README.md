@@ -1,7 +1,8 @@
 # hw1
 
-### Name: [your name in Chinese or English]
-### Student ID: [your student ID]
+### Name: 楊晴焱
+### Student ID: 107155018
+### I also handled it with the repository called 'hw1-LauskiMori'.
 
 ## cmd
 
